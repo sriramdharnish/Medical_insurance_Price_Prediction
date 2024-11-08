@@ -9,6 +9,7 @@ The dataset used for this project contains information about individuals includi
 [insurance.csv](https://github.com/sriramdharnish/Medical_insurance_Price_Prediction/files/14360402/insurance.csv)
 
 ### 🎯Model Accuracy :
-![Screenshot (110)](https://github.com/sriramdharnish/Medical_insurance_Price_Prediction/assets/94969747/995d3a1d-f118-44c5-8288-e240be7e7607)
+![Prediction result](https://github.com/user-attachments/assets/25922c99-71ab-458e-9d77-2cd2feec9e16)
+
 
 
