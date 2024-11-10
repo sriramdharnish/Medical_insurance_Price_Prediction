@@ -10,6 +10,8 @@ The dataset used for this project contains information about individuals includi
 
 ### 🎯Model Accuracy :
 ![Prediction Result](https://github.com/user-attachments/assets/ec140e56-65f4-40fa-a4c8-59d1a03d4525)
+![Prediction Streamlit Model](https://github.com/user-attachments/assets/e45525a9-1967-4556-a99b-15a8cc5e082b)
+
 
 
 
